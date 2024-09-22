@@ -1,0 +1,26 @@
+/* Add spacing around the entire page */
+body {
+  background-color: #f8f9fa;
+}
+
+/* Card shadow for a modern effect */
+.card {
+  border: none;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+/* Center align content */
+h2, .table {
+  text-align: center;
+}
+
+.table-bordered {
+  border-color: #dee2e6;
+}
+
+/* Responsive footer */
+.footer {
+  position: fixed;
+  bottom: 0;
+  width: 100%;
+}
